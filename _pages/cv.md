@@ -14,9 +14,33 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics (Applied), The University of Texas at Dallas, 2027 (expected)
-* M.S. in Mathematics, University of Pune, 2020
+* M.S. in Mathematics, Savitribai Phule Pune University, 2020
 * B.Sc. (Honors) in Mathematics, University of Calcutta, 2018
 
+Teaching Experience
+======
+* Fall 2024 - Present: Graduate Teaching Assistant
+  * Calculus I (MATH 2417) - Fall '25
+  * Numerical Analysis (MATH 4334) - Fall '25, Spring '25, Fall '24
+  * Mathematical Analysis I (MATH 4301) - Summer '25
+  * Elementary Analysis II (MATH 5302) - Spring '25
+  * Mathematical Analysis II (MATH 4302) - Spring '25
+  * Differential Equations with Applications (MATH 2420) - Fall '24
+
+* Spring 2024: Graduate Research Assistant
+  * Devised a two-level model of SESAM in order to model realistic loss (and gain) with pulse saturation.
+  * Linearized pulse output in SESAM component of a lumped laser model by Kim
+  * Supervisor: Dr. John Zweck
+
+* Fall 2022 - Fall 2023: Graduate Teaching Assistant
+  * Calculus of Several Variables (MATH 2415) - Fall '23
+  * Calculus I (MATH 2417) - Summer '23
+  * Integral Calculus (MATH 2414) - Spring '23
+  * Applied Calculus II (MATH 1326) - Spring '23
+  * Differential Calculus (MATH 2413) - Fall '22
+  * Applied Calculus I (MATH 1325) - Fall '22
+
+<!-- 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -64,3 +88,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
