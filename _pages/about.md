@@ -24,6 +24,8 @@ I am advised jointly by [Dr. John Zweck](https://drjohnzweck.github.io/) and [Dr
 
 You can find my publications, research projects, and software on this website, as well as links to my GitHub repositories and CV.
 
+<!-- rebuild trigger -->
+
 <!--  
 ---
 permalink: /
