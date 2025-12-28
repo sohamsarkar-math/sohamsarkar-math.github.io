@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Background"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D in Mathematics (Applied), The University of Texas at Dallas, 2027 (expected)
 * M.S. in Mathematics, University of Pune, 2020
-* B.Sc. Honors in Mathematics, University of Calcutta, 2018
+* B.Sc. (Honors) in Mathematics, University of Calcutta, 2018
 
 Work experience
 ======
