@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics (Applied), The University of Texas at Dallas, 2027 (expected)
-* M.S. in Mathematics, Savitribai Phule Pune University, 2020
-* B.Sc. (Honors) in Mathematics, University of Calcutta, 2018
+* Ph.D in Mathematics (Applied), [The University of Texas at Dallas](https://www.utdallas.edu/), 2027 (expected)
+* M.S. in Mathematics, [Savitribai Phule Pune University](https://www.unipune.ac.in/), 2020
+* B.Sc. (Honors) in Mathematics, [University of Calcutta](https://www.caluniv.ac.in/), 2018
 
 Teaching Experience
 ======
@@ -28,9 +28,9 @@ Teaching Experience
   * Differential Equations with Applications (MATH 2420) - Fall '24
 
 * Spring 2024: Graduate Research Assistant
-  * Devised a two-level model of SESAM in order to model realistic loss (and gain) with pulse saturation.
+  * Devised a two-level model of SESAM in order to model realistic loss (and gain) with pulse saturation
   * Linearized pulse output in SESAM component of a lumped laser model by Kim
-  * Supervisor: Dr. John Zweck
+  * Supervisor: [Dr. John Zweck](https://drjohnzweck.github.io/)
 
 * Fall 2022 - Fall 2023: Graduate Teaching Assistant
   * Calculus of Several Variables (MATH 2415) - Fall '23
