@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Soham Sarkar"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ I am a PhD candidate in Applied Mathematics in the Department of Mathematical Sc
 
 My work combines nonlinear partial differential equations, scientific computing, and numerical optimization to study lumped laser cavity models and saturable absorber dynamics. I develop and analyze numerical schemes for nonlinear evolution equations and investigate periodically stationary pulse solutions relevant to experimentally realizable laser systems.
 
-I am advised by Prof. John Zweck.
+I am advised by [Dr. John Zweck](https://drjohnzweck.github.io/).
 
 ---
 
