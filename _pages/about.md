@@ -1,11 +1,39 @@
+<!-- 
 ---
 permalink: /
-title: "About" "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About" "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites" 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+-->
+
+---
+permalink: /
+title: "Soham Sarkar"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am a PhD candidate in Applied Mathematics in the Department of Mathematical Sciences at the University of Texas at Dallas. My research focuses on the mathematical modeling and numerical simulation of ultrafast laser dynamics, nonlinear wave propagation, and dissipative systems arising in nonlinear optics.
+
+My work combines nonlinear partial differential equations, scientific computing, and numerical optimization to study lumped laser cavity models and saturable absorber dynamics. I develop and analyze numerical schemes for nonlinear evolution equations and investigate periodically stationary pulse solutions relevant to experimentally realizable laser systems.
+
+I am advised by Prof. John Zweck.
+
+---
+
+### Research Interests
+- Mathematical modeling of ultrafast lasers  
+- Nonlinear Schrödinger-type equations  
+- Dissipative nonlinear dynamics  
+- Numerical methods for nonlinear PDEs  
+- Scientific computing and optimization  
+
+You can find my publications, research projects, and software on this website, as well as links to my GitHub repositories and CV.
 
 <!--  This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
