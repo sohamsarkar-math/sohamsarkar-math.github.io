@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Applied Mathematics in the Department of Mathematical Sciences at the University of Texas at Dallas. My research focuses on the mathematical modeling and numerical simulation of ultrafast laser dynamics, nonlinear wave propagation, and dissipative systems arising in nonlinear optics.
+I am a PhD candidate in Applied Mathematics in the [Department of Mathematical Sciences](https://math.utdallas.edu/) at the [University of Texas at Dallas](https://www.utdallas.edu/). My research focuses on the mathematical modeling and numerical simulation of ultrafast laser dynamics, nonlinear wave propagation, and dissipative systems arising in nonlinear optics.
 
 My work combines nonlinear partial differential equations, scientific computing, and numerical optimization to study lumped laser cavity models and saturable absorber dynamics. I develop and analyze numerical schemes for nonlinear evolution equations and investigate periodically stationary pulse solutions relevant to experimentally realizable laser systems.
 
