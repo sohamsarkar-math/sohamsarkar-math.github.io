@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Bio"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,24 +20,24 @@ Education
 Teaching Experience
 ======
 * Fall 2024 - Present: Graduate Teaching Assistant
-  * Calculus I (MATH 2417) - Fall '25
-  * Numerical Analysis (MATH 4334) - Fall '25, Spring '25, Fall '24
-  * Mathematical Analysis I (MATH 4301) - Summer '25
-  * Elementary Analysis II (MATH 5302) - Spring '25
-  * Mathematical Analysis II (MATH 4302) - Spring '25
-  * Differential Equations with Applications (MATH 2420) - Fall '24
+  * MATH 2417, Calculus I - Fall '25
+  * MATH 4334, Numerical Analysis - Fall '25, Spring '25, Fall '24
+  * MATH 4301, Mathematical Analysis I - Summer '25
+  * MATH 5302, Elementary Analysis II - Spring '25
+  * MATH 4302, Mathematical Analysis II - Spring '25
+  * MATH 2420, Differential Equations with Applications - Fall '24
     
 * Fall 2022 - Fall 2023: Graduate Teaching Assistant
-  * Calculus of Several Variables (MATH 2415) - Fall '23
-  * Calculus I (MATH 2417) - Summer '23
-  * Integral Calculus (MATH 2414) - Spring '23
-  * Applied Calculus II (MATH 1326) - Spring '23
-  * Differential Calculus (MATH 2413) - Fall '22
-  * Applied Calculus I (MATH 1325) - Fall '22
+  * MATH 2415, Calculus of Several Variables - Fall '23
+  * MATH 2417, Calculus I - Summer '23
+  * MATH 2414, Integral Calculus - Spring '23
+  * MATH 1326, Applied Calculus II - Spring '23
+  * MATH 2413, Differential Calculus - Fall '22
+  * MATH 1325, Applied Calculus I - Fall '22
 
 Research Experience
 ======
- * Spring 2024: Graduate Research Assistant
+* Spring 2024: Graduate Research Assistant
   * Devised a two-level model of SESAM in order to model realistic loss (and gain) with pulse saturation
   * Linearized pulse output in SESAM component of a lumped laser model by Kim
   * Supervisor: [Dr. John Zweck](https://drjohnzweck.github.io/)
