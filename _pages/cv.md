@@ -19,7 +19,8 @@ Education
 
 Teaching Experience
 ======
-* Fall 2024 - Present: Graduate Teaching Assistant
+### Graduate Teaching Assistant
+* Fall 2024 - Present:
   * MATH 2417, Calculus I - Fall '25
   * MATH 4334, Numerical Analysis - Fall '25, Spring '25, Fall '24
   * MATH 4301, Mathematical Analysis I - Summer '25
@@ -27,7 +28,7 @@ Teaching Experience
   * MATH 4302, Mathematical Analysis II - Spring '25
   * MATH 2420, Differential Equations with Applications - Fall '24
     
-* Fall 2022 - Fall 2023: Graduate Teaching Assistant
+* Fall 2022 - Fall 2023:
   * MATH 2415, Calculus of Several Variables - Fall '23
   * MATH 2417, Calculus I - Summer '23
   * MATH 2414, Integral Calculus - Spring '23
@@ -37,7 +38,8 @@ Teaching Experience
 
 Research Experience
 ======
-* Spring 2024: Graduate Research Assistant
+### Graduate Research Assistant
+* Spring 2024:
   * Devised a two-level model of SESAM in order to model realistic loss (and gain) with pulse saturation
   * Linearized pulse output in SESAM component of a lumped laser model by Kim
   * Supervisor: [Dr. John Zweck](https://drjohnzweck.github.io/)
