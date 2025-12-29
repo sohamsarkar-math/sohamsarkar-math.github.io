@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Background"
+title: "Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -26,12 +26,7 @@ Teaching Experience
   * Elementary Analysis II (MATH 5302) - Spring '25
   * Mathematical Analysis II (MATH 4302) - Spring '25
   * Differential Equations with Applications (MATH 2420) - Fall '24
-
-* Spring 2024: Graduate Research Assistant
-  * Devised a two-level model of SESAM in order to model realistic loss (and gain) with pulse saturation
-  * Linearized pulse output in SESAM component of a lumped laser model by Kim
-  * Supervisor: [Dr. John Zweck](https://drjohnzweck.github.io/)
-
+    
 * Fall 2022 - Fall 2023: Graduate Teaching Assistant
   * Calculus of Several Variables (MATH 2415) - Fall '23
   * Calculus I (MATH 2417) - Summer '23
@@ -39,6 +34,15 @@ Teaching Experience
   * Applied Calculus II (MATH 1326) - Spring '23
   * Differential Calculus (MATH 2413) - Fall '22
   * Applied Calculus I (MATH 1325) - Fall '22
+
+Research Experience
+======
+ * Spring 2024: Graduate Research Assistant
+  * Devised a two-level model of SESAM in order to model realistic loss (and gain) with pulse saturation
+  * Linearized pulse output in SESAM component of a lumped laser model by Kim
+  * Supervisor: [Dr. John Zweck](https://drjohnzweck.github.io/)
+
+  
 
 <!-- 
 Work experience
