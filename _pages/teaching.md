@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching Experience"
 layout: archive
 permalink: /teaching/
 author_profile: true
