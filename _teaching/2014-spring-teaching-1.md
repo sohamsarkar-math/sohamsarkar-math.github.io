@@ -6,7 +6,7 @@ venue: "UT Dallas, Department of Mathematical Sciences"
 date: 2025-12-31
 ---
 
-**Graduate Teaching Assistant**, UT Dallas
+<!--**Graduate Teaching Assistant**, UT Dallas -->
 
 - **MATH 2417** - Calculus I (Fall 2025, Summer 2023)
 - **MATH 4334** - Numerical Analysis (Fall 2025, Spring 2025, Fall 2024)
