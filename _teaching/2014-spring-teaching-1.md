@@ -1,19 +1,20 @@
 ---
-title: "Teaching Experience 1"
+title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate courses"
-permalink: /teaching/2014-spring-teaching-1
+type: "Undergraduate Courses"
 venue: "UT Dallas, Department of Mathematical Sciences"
-date: Fall 2022 - Fall 2023
+date: 2023-08-01
 ---
 
-Fall 2022 - Fall 2023:
-  * MATH 2415, Calculus of Several Variables - Fall '23
-  * MATH 2417, Calculus I - Summer '23
-  * MATH 2414, Integral Calculus - Spring '23
-  * MATH 1326, Applied Calculus II - Spring '23
-  * MATH 2413, Differential Calculus - Fall '22
-  * MATH 1325, Applied Calculus I - Fall '22
+**Teaching Assistant**, UT Dallas  
+**Fall 2022 – Fall 2023**
+
+- **MATH 2415** — Calculus of Several Variables (Fall 2023)
+- **MATH 2417** — Calculus I (Summer 2023)
+- **MATH 2414** — Integral Calculus (Spring 2023)
+- **MATH 1326** — Applied Calculus II (Spring 2023)
+- **MATH 2413** — Differential Calculus (Fall 2022)
+- **MATH 1325** — Applied Calculus I (Fall 2022)
 
 
 
