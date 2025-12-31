@@ -7,7 +7,6 @@ date: 2023-08-01
 ---
 
 **Graduate Teaching Assistant**, UT Dallas
-**Fall 2024 - Present**
 
 - **MATH 2417** - Calculus I (Fall 2025)
 - **MATH 4334** - Numerical Analysis (Fall 2025, Spring 2025, Fall 2024)
