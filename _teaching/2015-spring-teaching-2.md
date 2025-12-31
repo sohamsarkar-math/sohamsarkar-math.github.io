@@ -1,7 +1,7 @@
 ---
 title: "Graduate Courses"
 collection: teaching
-type: "Course list"
+type: "Graduate Course List"
 venue: "UT Dallas, Department of Mathematical Sciences"
 date: 2025-12-31
 ---
