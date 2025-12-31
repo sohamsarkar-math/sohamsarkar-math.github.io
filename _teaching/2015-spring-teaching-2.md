@@ -3,7 +3,6 @@ title: "Graduate Courses"
 collection: teaching
 type: "Courses"
 venue: "UT Dallas, Department of Mathematical Sciences"
-date: 2023-08-01
 ---
 
 **Graduate Teaching Assistant**, UT Dallas
