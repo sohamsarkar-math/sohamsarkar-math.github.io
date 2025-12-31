@@ -1,7 +1,7 @@
 ---
 title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate Courses"
+type: "Courses"
 venue: "UT Dallas, Department of Mathematical Sciences"
 date: 2023-08-01
 ---
