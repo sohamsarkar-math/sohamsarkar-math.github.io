@@ -22,13 +22,16 @@ Experiences
 ======
 ### Graduate Teaching Assistant, UT Dallas
 * Fall 2022-23 and Summer 2024-Present:
-  
-My duties include mentoring students in problem sections; designing instructional materials/notes and implementing "active learning" teaching strategies to improve class engagement; and holding weekly office hours.
+My duties include
+  * Mentoring students in problem sections;
+  * Designing instructional materials/notes and implementing "active learning" teaching strategies to improve class engagement;
+  * Holding weekly office hours; and
+  * Grading and proctoring weekly Quizzes/HWs and Exams.
 
 ### Graduate Research Assistant, UT Dallas
 * Spring 2024:
-  * Devised a two-level model of SESAM in order to model realistic loss (and gain) with pulse saturation
-  * Linearized pulse output in SESAM component of a lumped laser model by Kim
+  * Devised a two-level model of SESAM in order to model realistic loss (and gain) with pulse saturation;
+  * Linearized pulse output in SESAM component of a lumped laser model by Kim;
   * Supervisor: [Dr. John Zweck](https://drjohnzweck.github.io/)
 
   
