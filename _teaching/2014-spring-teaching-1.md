@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Courses"
 collection: teaching
-type: "Courses"
+type: "Undergrad Course List"
 venue: "UT Dallas, Department of Mathematical Sciences"
 date: 2025-12-31
 ---
