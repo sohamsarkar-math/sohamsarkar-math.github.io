@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-As a Graduate Teaching Assistant, I taught and mentored undergrad and grad students in complex problem sections; designed instructional materials/notes and implemented interactive teaching strategies (along with Undergrad Learning Assistants), improving class engagement.
+As a Graduate Teaching Assistant, my duties include mentoring students in problem sections; designing instructional materials/notes and implementing "active learning" teaching strategies to improve class engagement; and holding weekly office hours.
 
 
 {% for post in site.teaching reversed %}
