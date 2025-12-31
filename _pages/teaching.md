@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-As a **Graduate Teaching Assistant** in UT Dallas, my duties include mentoring students in problem sections; designing instructional materials/notes and implementing "active learning" teaching strategies to improve class engagement; and holding weekly office hours.
+As a **Graduate Teaching Assistant (TA)** in UT Dallas, I have conducted problem sections and graded for some courses. I have given references to them below.
 
 
 {% for post in site.teaching reversed %}
