@@ -22,10 +22,10 @@ Experience
 ======
 ### Graduate Teaching Assistant, UT Dallas
 * Fall 2022-23 and Summer 2024-Present:
-  * Mentor students in problem sections
-  * Design instructional materials/notes and implementing "active learning" teaching strategies to improve class engagement
+  * Mentor students over problem sections
+  * Design instructional materials/notes and implement "active learning" teaching strategies to improve class engagement
   * Hold weekly office hours
-  * Grade and proctor weekly Quizzes/HWs and Exams
+  * Grade and proctor Quizzes/HWs and Exams
 
 ### Graduate Research Assistant, UT Dallas
 * Spring 2024:
