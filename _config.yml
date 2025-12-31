@@ -246,6 +246,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      nav: main
       read_time: true
       comments: true
       share: true
@@ -266,6 +267,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      nav: main
   # _publications
   - scope:
       path: ""
@@ -275,6 +277,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      nav: main
   # _portfolio
   - scope:
       path: ""
@@ -284,6 +287,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      nav: main
   # _talks
   - scope:
       path: ""
@@ -292,6 +296,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      nav: main
 
 
 # Sass/SCSS
