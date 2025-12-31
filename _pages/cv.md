@@ -18,9 +18,13 @@ Education
 * M.Sc. in Mathematics, [Savitribai Phule Pune University](https://www.unipune.ac.in/), 2020
 * B.Sc. (Honors) in Mathematics, [University of Calcutta](https://www.caluniv.ac.in/), 2018
 
-Research Experience
+Experiences
 ======
-### Graduate Research Assistant
+### Graduate Teaching Assistant, UT Dallas
+* Fall 2022-23 and Summer 2024-Present:
+My duties include mentoring students in problem sections; designing instructional materials/notes and implementing "active learning" teaching strategies to improve class engagement; and holding weekly office hours.
+
+### Graduate Research Assistant, UT Dallas
 * Spring 2024:
   * Devised a two-level model of SESAM in order to model realistic loss (and gain) with pulse saturation
   * Linearized pulse output in SESAM component of a lumped laser model by Kim
