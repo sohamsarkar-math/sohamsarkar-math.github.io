@@ -22,6 +22,7 @@ Experiences
 ======
 ### Graduate Teaching Assistant, UT Dallas
 * Fall 2022-23 and Summer 2024-Present:
+  
 My duties include mentoring students in problem sections; designing instructional materials/notes and implementing "active learning" teaching strategies to improve class engagement; and holding weekly office hours.
 
 ### Graduate Research Assistant, UT Dallas
