@@ -14,7 +14,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics (Applied), [The University of Texas at Dallas](https://www.utdallas.edu/), 2027 (expected)
-* M.S. in Mathematics, [Savitribai Phule Pune University](https://www.unipune.ac.in/), 2020
+* M.S. in Applied Mathematics, [The University of Texas at Dallas](https://www.utdallas.edu/), 2025
+* M.Sc. in Mathematics, [Savitribai Phule Pune University](https://www.unipune.ac.in/), 2020
 * B.Sc. (Honors) in Mathematics, [University of Calcutta](https://www.caluniv.ac.in/), 2018
 
 Research Experience
