@@ -6,7 +6,7 @@ venue: "UT Dallas, Department of Mathematical Sciences"
 date: 2023-08-01
 ---
 
-**Teaching Assistant**, UT Dallas  
+**Graduate Teaching Assistant**, UT Dallas  
 **Fall 2022 – Fall 2023**
 
 - **MATH 2415** — Calculus of Several Variables (Fall 2023)
