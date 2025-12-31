@@ -326,6 +326,10 @@ whitelist:
 
 footer:
   enabled: false
+atom_feed:
+  hide: true
+last_modified_at: false
+
 
 # Archives
 #  Type
