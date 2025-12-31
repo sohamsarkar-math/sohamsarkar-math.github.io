@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Taught and mentored **undergrad and grad students** in complex problem sections; designed instructional materials/notes and implemented interactive teaching strategies (along with Undergrad Learning Assistants), improving class engagement.
+As a Graduate Teaching Assistant, I taught and mentored undergrad and grad students in complex problem sections; designed instructional materials/notes and implemented interactive teaching strategies (along with Undergrad Learning Assistants), improving class engagement.
 
 
 {% for post in site.teaching reversed %}
