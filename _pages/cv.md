@@ -17,25 +17,6 @@ Education
 * M.S. in Mathematics, [Savitribai Phule Pune University](https://www.unipune.ac.in/), 2020
 * B.Sc. (Honors) in Mathematics, [University of Calcutta](https://www.caluniv.ac.in/), 2018
 
-Teaching Experience
-======
-### Graduate Teaching Assistant
-* Fall 2024 - Present:
-  * MATH 2417, Calculus I - Fall '25
-  * MATH 4334, Numerical Analysis - Fall '25, Spring '25, Fall '24
-  * MATH 4301, Mathematical Analysis I - Summer '25
-  * MATH 5302, Elementary Analysis II - Spring '25
-  * MATH 4302, Mathematical Analysis II - Spring '25
-  * MATH 2420, Differential Equations with Applications - Fall '24
-    
-* Fall 2022 - Fall 2023:
-  * MATH 2415, Calculus of Several Variables - Fall '23
-  * MATH 2417, Calculus I - Summer '23
-  * MATH 2414, Integral Calculus - Spring '23
-  * MATH 1326, Applied Calculus II - Spring '23
-  * MATH 2413, Differential Calculus - Fall '22
-  * MATH 1325, Applied Calculus I - Fall '22
-
 Research Experience
 ======
 ### Graduate Research Assistant
