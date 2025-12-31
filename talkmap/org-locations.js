@@ -15,8 +15,8 @@ var addressPoints = [
     73.8545071
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Modeling stability in nonlinear optics<br />UT Dallas, Department of Mathematical Sciences; Richardson, TX, USA",
+    32.9481789,
+    -96.7297206
   ]
 ];
