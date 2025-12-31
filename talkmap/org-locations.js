@@ -15,6 +15,11 @@ var addressPoints = [
     73.8545071
   ],
   [
+    "Heart Failure prediction<br />UT Dallas, Department of Mathematical Sciences; Richardson, TX, USA",
+    32.9481789,
+    -96.7297206
+  ],
+  [
     "Modeling stability in nonlinear optics<br />UT Dallas, Department of Mathematical Sciences; Richardson, TX, USA",
     32.9481789,
     -96.7297206
