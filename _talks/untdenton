@@ -1,0 +1,12 @@
+---
+title: "Stability in a short pulse laser"
+collection: talks
+type: "Lightning Talk"
+permalink: /talks/2012-03-01-talk-1
+venue: "UNT Denton, Department of Mathematics"
+date: 2024-05-17
+location: "Richardson, TX, USA"
+---
+Presentation slides available [here](https://drive.google.com/file/d/1T_GG33tyv0oGv2Vd8FP912lfi6_kM_50/view?usp=share_link), presented at [Dynamical Systems and Fractal Geometry Conference](https://pcallaart3.wixsite.com/conference)
+* Designed two-level energy model of a slow saturable absorber with respect to response time, loss and saturation energy
+* Linearized pulse output in SESAM to determine the stability by computing its numerical spectrum
