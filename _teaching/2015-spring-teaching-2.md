@@ -1,7 +1,7 @@
 ---
 title: "Graduate Courses"
 collection: teaching
-type: "<a href='(https://catalog.utdallas.edu/now/graduate/courses/math)'>Graduate Course List</a>"
+type: "<a href='https://catalog.utdallas.edu/now/graduate/courses/math'>Graduate Course List</a>"
 venue: "UT Dallas, Department of Mathematical Sciences"
 date: 2025-12-31
 ---
