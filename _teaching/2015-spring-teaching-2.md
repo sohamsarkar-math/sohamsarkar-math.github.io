@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience"
+title: "Graduate Courses"
 collection: teaching
 type: "Courses"
 venue: "UT Dallas, Department of Mathematical Sciences"
