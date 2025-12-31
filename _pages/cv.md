@@ -18,7 +18,7 @@ Education
 * M.Sc. in Mathematics, [Savitribai Phule Pune University](https://www.unipune.ac.in/), 2020
 * B.Sc. (Honors) in Mathematics, [University of Calcutta](https://www.caluniv.ac.in/), 2018
 
-Experiences
+Experience
 ======
 ### Graduate Teaching Assistant, UT Dallas
 * Fall 2022-23 and Summer 2024-Present:
