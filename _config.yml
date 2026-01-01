@@ -335,7 +335,7 @@ footer:
 atom_feed:
   hide: true
 last_modified_at: false
-
+last_update_label: ""
 
 # Archives
 #  Type
