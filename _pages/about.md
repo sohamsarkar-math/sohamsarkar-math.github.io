@@ -17,7 +17,7 @@ I am jointly advised by [Dr. John Zweck](https://drjohnzweck.github.io/) and [Dr
 
 ### Primary Research Area
 - Mathematical modeling of ultrafast lasers  
-- Nonlinear Schrödinger-type equations (Haus modelocking)  
+- Nonlinear Schrödinger-type equations (Haus modelocking)
 - Dissipative nonlinear dynamics  
 - Numerical methods for nonlinear PDEs  
 - Scientific computing and optimization  
