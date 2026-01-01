@@ -1,6 +1,34 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Research"
+permalink: /talks/
+author_profile: true
+---
+
+{% if site.talkmap_link == true %}
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+{% endif %}
+
+## Projects
+### Data-Driven Health Risk Prediction
+* **Overview:** Developed predictive models in **R** to analyze heart failure mortality risk using a clinical dataset of 299 patients.
+* **Methods:** Implemented **Multiple Linear Regression** and **Logistic Regression** to rank 13 clinical risk factors.
+* **Key Finding:** Identified *Serum Creatinine* and *Ejection Fraction* as the most significant predictors, with the Logistic model showing superior confidence in mortality events.
+
+
+
+---
+
+## Talks and Presentations
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+
+<!--
+---
+layout: archive
+title: "Projects and presentations"
 permalink: /talks/
 author_profile: true
 ---
@@ -14,3 +42,4 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+-->
