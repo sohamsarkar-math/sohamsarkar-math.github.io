@@ -23,7 +23,7 @@ I am jointly advised by [Dr. John Zweck](https://drjohnzweck.github.io/) and [Dr
 - Scientific computing and optimization  
 
 I am also interested in variety of other topics outside of these in the areas of Computational Mathematics and Statistics. 
-I am happy to talk about research and outreach activities. So, feel free to reach out at my email.
+I am happy to talk about research and outreach activities. So, feel free to reach out at my email: Soham'dot'Sarkar'at'utdallas'dot'edu
 
 You can find my teaching methodology, research projects, and associated softwares on this website.
 
