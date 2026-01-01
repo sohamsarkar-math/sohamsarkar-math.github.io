@@ -22,7 +22,7 @@ I am jointly advised by [Dr. John Zweck](https://drjohnzweck.github.io/) and [Dr
 - Numerical methods for nonlinear PDEs  
 - Scientific computing and optimization  
 
-I am also interested in variety of other topics not necessarily restricted to this.
+I am also interested in variety of other topics outside of these in Applied Mathematics and Statistics. So, feel free to reach out if you are looking for collaboration.
 You can find my teaching methodology, research projects, and associated softwares on this website.
 
 <!-- rebuild trigger -->
