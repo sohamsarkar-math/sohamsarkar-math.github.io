@@ -24,8 +24,6 @@ Prior to this, I worked in the area of algebraic graph theory during my Masters.
 - Numerical methods for nonlinear PDEs  
 - Scientific computing and optimization  
 
-My interests also range across the areas of Computational Math and Stats.
-
 I am always happy to talk about research and outreach initiatives. So, feel free to reach out. <br> **Email:** Soham'dot'Sarkar'at'UTDallas'dot'edu
 
 <!--You can find my teaching methodology, research projects, and associated softwares on this website.-->
