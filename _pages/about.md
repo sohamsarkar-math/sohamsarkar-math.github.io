@@ -22,9 +22,9 @@ I am jointly advised by [Dr. John Zweck](https://drjohnzweck.github.io/) and [Dr
 - Numerical methods for nonlinear PDEs  
 - Scientific computing and optimization  
 
-I am also interested in variety of other topics outside of these in the areas of Computational Mathematics and Statistics.
+My interests also range across the areas of Computational Math and Stats.
 
-I am happy to talk about research and outreach activities. So, feel free to reach out. <br> **Email:** Soham'dot'Sarkar'at'UTDallas'dot'edu
+I am always happy to talk about research and outreach initiatives. So, feel free to reach out. <br> **Email:** Soham'dot'Sarkar'at'UTDallas'dot'edu
 
 <!--You can find my teaching methodology, research projects, and associated softwares on this website.-->
 
