@@ -8,7 +8,7 @@ date: 2025-12-31
 
 <!--**Graduate Teaching Assistant**, UT Dallas -->
 
-- **MATH 5302** - Elementary Analysis II (Spring 2025)
+- **MATH 5302**, Elementary Analysis II - Spring 2025
 
 
 
