@@ -7,6 +7,6 @@ venue: "UNT Denton, Department of Mathematics"
 date: 2024-05-17
 location: "Richardson, TX, USA"
 ---
-Presentation slides available [here](/files/UNTDenton_Spring24.pdf), presented at [Dynamical Systems and Fractal Geometry Conference](https://pcallaart3.wixsite.com/conference)
+Presentation slides available [here](/UNTDenton_Spring24.pdf), presented at [Dynamical Systems and Fractal Geometry Conference](https://pcallaart3.wixsite.com/conference)
 * Designed two-level energy model of a slow saturable absorber with respect to response time, loss and saturation energy
 * Linearized pulse output in SESAM to determine the stability by computing its numerical spectrum
