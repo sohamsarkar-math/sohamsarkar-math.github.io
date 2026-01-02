@@ -20,8 +20,8 @@ var addressPoints = [
     -96.7297206
   ],
   [
-    "Modeling stability in nonlinear optics<br />UT Dallas, Department of Mathematical Sciences; Richardson, TX, USA",
-    32.9481789,
-    -96.7297206
+    "Modeling stability in nonlinear optics<br />Oden Institute, UT Austin; Austin, TX, USA",
+    30.2711286,
+    -97.7436995
   ]
 ];
