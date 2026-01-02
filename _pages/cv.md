@@ -14,6 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics, [The University of Texas at Dallas](https://www.utdallas.edu/), 2027 (expected)
+  Advisors: Dr. John Zweck and Dr. Dmitry Rachinskiy
 * M.S. in Mathematics, [The University of Texas at Dallas](https://www.utdallas.edu/), 2025
   * Specialization: Applied Mathematics
 * M.Sc. in Mathematics, [Savitribai Phule Pune University](https://www.unipune.ac.in/), 2020
