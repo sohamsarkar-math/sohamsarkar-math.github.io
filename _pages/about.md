@@ -13,7 +13,7 @@ My work combines nonlinear partial differential equations, scientific computing,
 
 I am currently jointly advised by [Dr. John Zweck](https://drjohnzweck.github.io/) and [Dr. Dmitry Rachinskiy](https://personal.utdallas.edu/~dxr124030/).
 
-Prior to this, I had some experience working in the area of algebraic graph theory during my Masters.
+Prior to this, I worked in the area of algebraic graph theory during my Masters.
 
 ---
 
