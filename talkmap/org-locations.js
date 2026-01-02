@@ -1,23 +1,28 @@
 var addressPoints = [
   [
-    "Expander Graph and its Applications<br />Savitribai Phule Pune University, Department of Mathematics; Pune, India",
+    "Expander Graph and its Applications<br />Department of Mathematics, Savitribai Phule Pune University; Pune, India",
     18.5213738,
     73.8545071
   ],
   [
-    "Zero-Divisor Graphs of Commutative Rings and Posets<br />Savitribai Phule Pune University, Department of Mathematics; Pune, India",
+    "Zero-Divisor Graphs of Commutative Rings and Posets<br />Department of Mathematics, Savitribai Phule Pune University; Pune, India",
     18.5213738,
     73.8545071
   ],
   [
-    "Moliens theorem to compute invariants<br />Savitribai Phule Pune University, Department of Mathematics; Pune, India",
+    "Moliens theorem to compute invariants<br />Department of Mathematics, Savitribai Phule Pune University; Pune, India",
     18.5213738,
     73.8545071
   ],
   [
-    "Heart Failure prediction<br />UT Dallas, Department of Mathematical Sciences; Richardson, TX, USA",
+    "Heart Failure prediction<br />Department of Mathematical Sciences, UT Dallas; Richardson, TX, USA",
     32.9481789,
     -96.7297206
+  ],
+  [
+    "Stability in a short pulse laser<br />Department of Mathematics, UNT Denton; Denton, TX, USA",
+    33.1838787,
+    -97.1413417
   ],
   [
     "Modeling stability in nonlinear optics<br />Oden Institute, UT Austin; Austin, TX, USA",
