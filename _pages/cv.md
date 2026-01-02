@@ -47,9 +47,9 @@ Technical Skills
     * Numerical PDEs, Finite Difference Schemes, Adjoint-State Optimization (BFGS), Dynamical Systems, Spectral Methods
 * **Programming & Scripting:**
     * **Languages:** Python (NumPy, Pandas, Scikit-learn, SciPy, Matplotlib), MATLAB (Optimization Toolbox), R (caret, dplyr, ggplot2), C
-    * **High-Performance Computing:** MPI-based parallelization, OpenMPI
+    * **High-Performance Computing:** MPI-based parallelization (FEM), OpenMPI
 * **Data Science & Machine Learning:**
-    * Statistical Modeling (Logistic/Linear Regression), Hypothesis Testing, Feature Engineering, Dimensionality Reduction (PCA), Classification Algorithms
+    * Statistical Modeling (Classification and regression), Hypothesis Testing, Dimension Reduction, Clustering algorithms, Decision trees, Neural Nets
 * **Tools & Typesetting:**
     * Git/GitHub, LaTeX, R Markdown, MS Office, Linux/Unix Shell
 
