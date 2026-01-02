@@ -44,10 +44,10 @@ To know more about my Research Experience, kindly refer to my [Research section]
 Technical Skills
 ======
 * **Mathematical Expertise:**
-    * Numerical PDEs, Finite Difference Schemes, Adjoint-State Optimization (BFGS), Dynamical Systems, Spectral Methods
+    * Numerical PDEs, Finite Difference Schemes, FEMs, Adjoint-State Optimization, Dynamical Systems, Spectral Methods
 * **Programming & Scripting:**
-    * **Languages:** Python (NumPy, Pandas, Scikit-learn, keras, Matplotlib), MATLAB (Optimization Toolbox), R (caret, dplyr, ggplot2), C
-    * **High-Performance Computing:** MPI-based parallelization (FEM), OpenMPI
+    * **Languages:** Python (NumPy, Pandas, Scikit-learn, tensorflow, Matplotlib), MATLAB (Optimization Toolbox), R (caret, dplyr, ggplot2), C
+    * **High-Performance Computing:** MPI-based parallelization, OpenMPI
 * **Data Science & Machine Learning:**
     * Statistical Modeling (Classification and regression), Hypothesis Testing, Dimension Reduction, Clustering algorithms, Decision trees, Neural Nets
 * **Tools & Typesetting:**
