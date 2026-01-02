@@ -265,8 +265,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
       nav: main
   # _publications
   - scope:
@@ -285,8 +285,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
       nav: main
   # _talks
   - scope:
@@ -295,7 +295,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
       nav: main
 
 
