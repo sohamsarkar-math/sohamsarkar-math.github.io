@@ -9,7 +9,6 @@ location: "Denton, TX, USA"
 slides: /UNTDenton_Spring24.pdf
 ---
 
-## [{{ page.title }}]({{ page.slides }})
 Presented at [Dynamical Systems and Fractal Geometry Conference](https://pcallaart3.wixsite.com/conference)
 * Designed two-level energy model of a slow saturable absorber with respect to response time, loss and saturation energy
 * Linearized pulse output in SESAM to determine the stability by computing its numerical spectrum
