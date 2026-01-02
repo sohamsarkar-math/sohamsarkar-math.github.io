@@ -7,13 +7,9 @@ redirect_from:
   - /about.html
 ---
 Hello there!
-I am a fourth-year PhD candidate in Applied Mathematics in the [Department of Mathematical Sciences](https://math.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/). My current research focuses on the mathematical modeling and numerical simulation of ultrafast laser dynamics, nonlinear wave propagation, and dissipative systems arising in nonlinear optics.
+I am a fourth-year PhD candidate in Applied Mathematics in the [Department of Mathematical Sciences](https://math.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/), where I am jointly advised by [Dr. John Zweck](https://drjohnzweck.github.io/) and [Dr. Dmitry Rachinskiy](https://personal.utdallas.edu/~dxr124030/).
 
-My work combines nonlinear partial differential equations, scientific computing, and numerical optimization to study lumped laser cavity models and saturable absorber dynamics.
-
-I am currently jointly advised by [Dr. John Zweck](https://drjohnzweck.github.io/) and [Dr. Dmitry Rachinskiy](https://personal.utdallas.edu/~dxr124030/).
-
-Prior to this, I worked in the area of algebraic graph theory during my Masters.
+My current research focuses on the mathematical modeling and numerical simulation of ultrafast laser dynamics, nonlinear wave propagation, and dissipative systems arising in nonlinear optics. My work combines nonlinear partial differential equations, scientific computing, and numerical optimization to study lumped laser cavity models and saturable absorber dynamics.
 
 ---
 
@@ -23,6 +19,9 @@ Prior to this, I worked in the area of algebraic graph theory during my Masters.
 - Dissipative nonlinear dynamics  
 - Numerical methods for nonlinear PDEs  
 - Scientific computing and optimization  
+
+
+Prior to this, I worked in the area of algebraic graph theory during my Masters.
 
 I am always happy to talk about research and outreach initiatives. So, feel free to reach out. <br> **Email:** Soham'dot'Sarkar'at'UTDallas'dot'edu
 
