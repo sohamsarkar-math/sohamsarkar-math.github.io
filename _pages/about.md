@@ -16,7 +16,6 @@ My current research focuses on the mathematical modeling and numerical simulatio
 ### Primary Research Area
 - Mathematical modeling of ultrafast lasers  
 - Nonlinear Schrödinger-type equations (Haus modelocking)
-- Dissipative nonlinear dynamics  
 - Numerical methods for nonlinear PDEs  
 - Scientific computing and optimization  
 
