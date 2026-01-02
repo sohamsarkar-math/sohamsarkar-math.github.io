@@ -29,7 +29,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Department of <br> Mathematical Sciences at UT Dallas" # "Short biography for the left-hand sidebar"
   location         : # "FO 2.408k, UT Dallas" # "Earth"
-  employer         : "FO 2.408k, 800 W Campbell Rd <br> Richardson, TX 75080" # "The University of Texas at Dallas" # "Red Brick University"
+  employer         : "FO 2.408k, 800 W Campbell Rd <br> Richardson, TX 75080, USA" # "The University of Texas at Dallas" # "Red Brick University"
   uri              : # "https://sohamsarkar-math.github.io/" # URL
   email            : # "Soham.Sarkar@UTDallas.edu" # "none@example.org" 
 
