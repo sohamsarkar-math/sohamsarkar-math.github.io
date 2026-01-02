@@ -40,7 +40,18 @@ To know what courses, I have TAed for, kindly refer to my [Teaching section](/te
   * Supervisor: Dr. John Zweck
 
 To know more about my Research Experience, kindly refer to my [Research section](/talks/)
-  
+
+Technical Skills
+======
+* **Mathematical Expertise:**
+    * Numerical PDEs, Finite Difference Schemes, Adjoint-State Optimization (BFGS), Dynamical Systems, Spectral Methods
+* **Programming & Scripting:**
+    * **Languages:** Python (NumPy, Pandas, Scikit-learn, SciPy, Matplotlib), MATLAB (Optimization Toolbox), R (caret, dplyr, ggplot2), C
+    * **High-Performance Computing:** MPI-based parallelization, OpenMPI
+* **Data Science & Machine Learning:**
+    * Statistical Modeling (Logistic/Linear Regression), Hypothesis Testing, Feature Engineering, Dimensionality Reduction (PCA), Classification Algorithms
+* **Tools & Typesetting:**
+    * Git/GitHub, LaTeX, R Markdown, MS Office, Linux/Unix Shell
 
 <!-- 
 Work experience
