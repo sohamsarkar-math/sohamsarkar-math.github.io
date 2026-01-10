@@ -48,10 +48,12 @@ Technical Skills
 * **Programming:**
     * **Languages:** Python (NumPy, Pandas, Scikit-learn, tensorflow, Matplotlib), MATLAB (Optimization Toolbox), R (caret, dplyr, ggplot2), C
     * **High-Performance Computing:** MPI-based parallelization, OpenMPI
-<!--* **Data Science & Machine Learning:**
-    * Statistical Modeling (Classification and regression), Hypothesis Testing, Dimension Reduction, Clustering algorithms, Decision trees, Neural Nets-->
 * **Tools & Typesetting:**
     * Git/GitHub, LaTeX, R Markdown, MS Office, Linux/Unix Shell
+
+<!--* **Data Science & Machine Learning:**
+    * Statistical Modeling (Classification and regression), Hypothesis Testing, Dimension Reduction, Clustering algorithms, Decision trees, Neural Nets-->
+
 
 <!-- 
 Work experience
