@@ -24,7 +24,7 @@ repository               : "sohamsarkar-math/sohamsarkar-math.github.io" # "acad
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Soham4~2.jpg" # "profile.png"
+  avatar           : "profilepic.png" # "profile.png"
   name             : "Soham Sarkar" # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Mathematics" # "PhD candidate in Department of <br> Mathematical Sciences at UT Dallas" # "Short biography for the left-hand sidebar"
