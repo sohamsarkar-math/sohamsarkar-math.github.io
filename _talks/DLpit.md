@@ -1,7 +1,7 @@
 ---
 title: "Probability and Information Theory "
 collection: talks
-type: "Paper discussion"
+type: "Book Chapter Presentation"
 venue: "Department of Mathematical Sciences, UT Dallas"
 date: 2023-10-03
 location: "Richardson, TX, USA"
