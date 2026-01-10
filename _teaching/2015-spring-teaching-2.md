@@ -1,5 +1,5 @@
 ---
-title: "Graduate Courses"
+title: "Graduate Courses Taught"
 collection: teaching
 type: "<a href='https://catalog.utdallas.edu/now/graduate/courses/math'>Graduate Course List</a>"
 venue: "UT Dallas, Department of Mathematical Sciences"
