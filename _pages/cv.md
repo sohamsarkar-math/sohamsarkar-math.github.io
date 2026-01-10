@@ -46,7 +46,7 @@ Technical Skills
 * **Mathematical Expertise:**
     * Numerical PDEs, Finite Difference Schemes, FEMs, Adjoint-State Optimization, Dynamical Systems, Spectral Methods
 * **Programming:**
-    * **Languages:** Python (NumPy, Pandas, Scikit-learn, tensorflow, Matplotlib), MATLAB (Optimization Toolbox), R (caret, dplyr, ggplot2), C
+    * **Languages:** MATLAB, Python (NumPy, Pandas, Scikit-learn, tensorflow, Matplotlib), R (caret, dplyr, ggplot2), C
     * **High-Performance Computing:** MPI-based parallelization, OpenMPI
 * **Tools & Typesetting:**
     * Git/GitHub, LaTeX, R Markdown, MS Office, Linux/Unix Shell
