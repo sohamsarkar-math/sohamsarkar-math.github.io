@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Courses Taught"
+title: "TA - Undergraduate Courses"
 collection: teaching
 type: "<a href='https://catalog.utdallas.edu/now/undergraduate/courses/math'>Undergraduate Course List</a>"
 venue: "UT Dallas, Department of Mathematical Sciences"
