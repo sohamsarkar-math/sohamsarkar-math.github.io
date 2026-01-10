@@ -5,6 +5,11 @@ var addressPoints = [
     73.8545071
   ],
   [
+    "A Theory for multiresolution signal decomposition: the wavelet representation<br />Department of Mathematical Sciences, UT Dallas; Richardson, TX, USA",
+    32.9481789,
+    -96.7297206
+  ],
+  [
     "Zero-Divisor Graphs of Commutative Rings and Posets<br />Department of Mathematics, Savitribai Phule Pune University; Pune, India",
     18.5213738,
     73.8545071
