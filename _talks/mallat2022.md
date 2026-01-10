@@ -3,7 +3,7 @@ title: "A Theory for multiresolution signal decomposition: the wavelet represent
 collection: talks
 type: "Paper discussion"
 venue: "Department of Mathematical Sciences, UT Dallas"
-date: 2021-10-18
+date: 2022-10-18
 location: "Richardson, TX, USA"
 ---
 
