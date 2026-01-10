@@ -20,7 +20,7 @@ My current research focuses on the mathematical modeling and numerical simulatio
 - Scientific computing and optimization  
 
 
-Prior to this, I worked in the area of algebraic graph theory during my Masters.
+Prior to this, I have worked in the area of algebraic graph theory during my Masters.
 
 I am always happy to talk about research and outreach initiatives. So, feel free to reach out. 
 <br> **Email:** Soham[dot]Sarkar[at]UTDallas[dot]edu
