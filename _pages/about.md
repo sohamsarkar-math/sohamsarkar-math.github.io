@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Hello!
-I am a fourth-year PhD candidate in Applied Mathematics in the [Department of Mathematical Sciences](https://math.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/), where I am jointly advised by [Dr. John Zweck](https://drjohnzweck.github.io/) and [Dr. Dmitry Rachinskiy](https://personal.utdallas.edu/~dxr124030/).
+I am a fourth-year PhD student in Applied Mathematics in the [Department of Mathematical Sciences](https://math.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/), where I am jointly advised by [Dr. John Zweck](https://drjohnzweck.github.io/) and [Dr. Dmitry Rachinskiy](https://personal.utdallas.edu/~dxr124030/).
 
 My current research focuses on the mathematical modeling and numerical simulation of ultrafast laser dynamics, nonlinear wave propagation, and dissipative systems arising in nonlinear optics. My work combines nonlinear partial differential equations, scientific computing, and numerical optimization to study lumped laser cavity models and saturable absorber dynamics.
 
