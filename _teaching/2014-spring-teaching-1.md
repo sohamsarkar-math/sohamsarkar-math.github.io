@@ -13,6 +13,7 @@ date: 2025-12-31
 - **MATH 4301**, Mathematical Analysis I - Summer 2025
 - **MATH 4302**, Mathematical Analysis II - Spring 2025
 - **MATH 2420**, Differential Equations with Applications - Fall 2024
+- **MATH 2418**, Linear Algebra - Summer 2024
 - **MATH 2415**, Calculus of Several Variables - Fall 2023
 - **MATH 2414**, Integral Calculus - Spring 2023
 - **MATH 1326**, Applied Calculus II - Spring 2023
