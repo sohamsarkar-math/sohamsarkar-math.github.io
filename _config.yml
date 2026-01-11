@@ -27,7 +27,7 @@ author:
   avatar           : "profilepic.png" # "profile.png"
   name             : "Soham Sarkar" # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Mathematics" # "PhD candidate in Department of <br> Mathematical Sciences at UT Dallas" # "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Mathematics" #"PhD Candidate in Department of <br> Mathematical Sciences at UT Dallas" # "Short biography for the left-hand sidebar"
   location         : # "FO 2.408k, UT Dallas" # "Earth"
   employer         : "UT Dallas" # "FO 2.408k, 800 W Campbell Rd <br> Richardson, TX 75080-3021, USA" # "The University of Texas at Dallas" # "Red Brick University"
   uri              : # "https://sohamsarkar-math.github.io/" # URL
