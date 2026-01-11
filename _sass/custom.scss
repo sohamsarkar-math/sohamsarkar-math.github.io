@@ -1,7 +1,24 @@
-pre, code, kbd, samp {
-  font-family: "Courier New", Courier, monospace !important;
+/* Body text (journal-style serif) */
+body {
+  font-family: "Times New Roman", Times, Georgia, serif;
 }
 
+/* Headings stay sans-serif */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+/* Code blocks */
+pre, code, kbd, samp {
+  font-family: "Courier New", Courier, monospace;
+}
+
+
+/*pre, code, kbd, samp {
+  font-family: "Courier New", Courier, monospace !important;
+}
+*/
 
 /* Force Times New Roman everywhere */
 /*html, body, * {
