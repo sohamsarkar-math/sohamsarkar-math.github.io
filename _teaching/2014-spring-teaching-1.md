@@ -8,10 +8,10 @@ date: 2025-12-31
 
 <!--**Graduate Teaching Assistant**, UT Dallas -->
 
-- **MATH 4334**, Numerical Analysis - Fall 2025, Spring 2025, Fall 2024
+- **MATH 4334**, Numerical Analysis - Spring 2026, Fall 2025, Spring 2025, Fall 2024
+- **MATH 4302**, Mathematical Analysis II - Spring 2026, 2025
 - **MATH 2417**, Calculus I - Fall 2025, Summer 2023
 - **MATH 4301**, Mathematical Analysis I - Summer 2025
-- **MATH 4302**, Mathematical Analysis II - Spring 2025
 - **MATH 2420**, Differential Equations with Applications - Fall 2024
 - **MATH 2418**, Linear Algebra - Summer 2024
 - **MATH 2415**, Calculus of Several Variables - Fall 2023
