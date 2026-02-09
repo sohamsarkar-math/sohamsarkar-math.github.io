@@ -287,7 +287,7 @@ defaults:
       author_profile: true
       share: false
       comment: false
-      nav: false
+      nav: main
   # _talks
   - scope:
       path: ""
