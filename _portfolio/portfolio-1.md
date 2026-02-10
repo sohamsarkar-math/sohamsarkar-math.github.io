@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <iframe 
-  src="SohamSarkar_MWNAday26.pdf" 
+  src="_portfolio/SohamSarkar_MWNAday26.pdf" 
   width="100%" 
   height="900px"
   style="border:none;">
