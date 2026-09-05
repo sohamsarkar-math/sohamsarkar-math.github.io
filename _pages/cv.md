@@ -25,9 +25,9 @@ Education
 Recent Experience
 ======
 ### Graduate Teaching Assistant, UT Dallas
-* Fall 2022-23 and Summer 2024-Present:
+* Fall 2022-23; Summer 2024-Spring 2026; Fall 2026-Present:
   * Conduct weekly problem sections with students
-  * Design instructional materials/notes and implement "active learning" strategies to improve class engagement
+  * Design instructional materials/notes/quizzes and implement "active learning" strategies to improve class engagement
   * Hold weekly office hours
   * Grade and proctor Quizzes/HWs and Exams
 
