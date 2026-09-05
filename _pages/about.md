@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 Hello!
-I am a fourth-year PhD candidate in Applied Mathematics in the [Department of Mathematical Sciences](https://math.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/), where I am jointly advised by [Dr. John Zweck](https://drjohnzweck.github.io/) and [Dr. Dmitry Rachinskiy](https://personal.utdallas.edu/~dxr124030/).
+I am a fifth-year PhD candidate in Applied Mathematics in the [Department of Mathematical Sciences](https://math.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/), where I am jointly advised by [Dr. John Zweck](https://drjohnzweck.github.io/) and [Dr. Dmitry Rachinskiy](https://personal.utdallas.edu/~dxr124030/).
 
-My current research focuses on the mathematical modeling and numerical simulation of ultrafast laser dynamics, nonlinear wave propagation, and dissipative systems arising in nonlinear optics. My work combines nonlinear partial differential equations, scientific computing, and numerical optimization to study lumped laser cavity models and saturable absorber dynamics.
+My current research focuses on the mathematical modeling and numerical simulation of ultrafast laser dynamics, nonlinear wave propagation, and dissipative systems arising in nonlinear optics. My work combines nonlinear partial differential equations, statistical and scientific computing, and numerical optimization to study lumped laser cavity models and saturable absorber dynamics.
 
 ---
 
@@ -17,7 +17,8 @@ My current research focuses on the mathematical modeling and numerical simulatio
 - Mathematical modeling of ultrafast lasers  
 - Nonlinear Schrödinger-type equations (Haus modelocking)
 - Numerical methods for nonlinear PDEs  
-- Scientific computing and optimization  
+- Scientific computing and optimization
+- Noise analysis in laser components
 
 
 Prior to this, I have worked in the area of algebraic graph theory during my Masters.
