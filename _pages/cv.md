@@ -34,10 +34,12 @@ Recent Experience
 To know what courses, I have TAed for, kindly refer to my [Teaching section](/teaching/)
 
 ### Graduate Research Assistant, UT Dallas
-* Spring 2024:
+* Summer 2026: (Co-PIs: Dr. John Zweck and Dmitry Rachinskiy)
+  * Perform parameter continuation studies on laser cavity parameters.
+  * Analyze noise in components of lumped laser model by Monte Carlo simulations.
+* Spring 2024: (PI: Dr. John Zweck)
   * Devised a two-level model of SESAM in order to model realistic loss (and gain) with pulse saturation
   * Linearized pulse output in SESAM component of a lumped laser model by Kim
-  * Supervisor: Dr. John Zweck
 
 To know more about my Research Experience, kindly refer to my [Research section](/talks/)
 
